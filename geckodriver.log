@@ -1,0 +1,111 @@
+1593059176319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehiq2O0"
+1593059182085	Marionette	INFO	Listening on port 41259
+1593059182342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593059308725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexmC71w"
+1593059312991	Marionette	INFO	Listening on port 35633
+1593059313042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+1593059388077	Marionette	INFO	Stopped listening on port 41259
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+console.error: "Error while calling actor 'domwalker's method 'documentElement'" "can't access dead object"
+console.error: "documentElement@resource://devtools/server/actors/inspector/walker.js:688:1\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): can't access dead object from: server0.conn1.child2/domwalker23", "resource://devtools/shared/protocol/Front.js", 319))
+1593059484855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV47sVS"
+1593059487850	Marionette	INFO	Listening on port 37683
+1593059487866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+1593059514259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemHtU7s"
+1593059518564	Marionette	INFO	Listening on port 42899
+1593059518573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593059520631	Marionette	INFO	Stopped listening on port 37683
+1593059522044	Marionette	INFO	Stopped listening on port 35633
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+1593059838102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled8XcuT"
+1593059841579	Marionette	INFO	Listening on port 36961
+1593059841612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+1593059939780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2tD9Hl"
+1593059943807	Marionette	INFO	Listening on port 38639
+1593059943892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593059947441	Marionette	INFO	Stopped listening on port 36961
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593059952564	Marionette	INFO	Stopped listening on port 42899
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593060032917	Marionette	INFO	Stopped listening on port 38639
+1593060044417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ci5k4"
+1593060047541	Marionette	INFO	Listening on port 32849
+1593060047626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+1593060233592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNYkVl8"
+1593060235841	Marionette	INFO	Listening on port 43359
+1593060235898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/2.d3ce78a3.chunk.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1593060288128	Marionette	INFO	Stopped listening on port 43359
+1593060291473	Marionette	INFO	Stopped listening on port 32849
+1593060295738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqGDjDG"
+1593060298564	Marionette	INFO	Listening on port 39451
+1593060298707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+1593060420859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekMGT2i"
+1593060423680	Marionette	INFO	Listening on port 35757
+1593060423975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+1593060456321	Marionette	INFO	Stopped listening on port 35757
+1593060457721	Marionette	INFO	Stopped listening on port 39451
+1593060479255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK8LsJn"
+1593060482284	Marionette	INFO	Listening on port 41217
+1593060482367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-dot-lightspeed-cms.lax-hamrostack.com/static/js/main.b6a7b587.chunk.js, line 1: TypeError: t is null
+1593060779525	Marionette	INFO	Stopped listening on port 41217
